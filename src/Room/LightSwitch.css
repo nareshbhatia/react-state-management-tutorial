@@ -1,0 +1,17 @@
+.light-switch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 100px;
+  border: 2px solid var(--primary-dark);
+  cursor: pointer;
+}
+
+.light-switch--open {
+  background: #ffffff;
+}
+
+.light-switch--closed {
+  background: var(--primary-dark);
+}

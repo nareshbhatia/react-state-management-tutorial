@@ -11,8 +11,13 @@
 # production
 /build
 
+# editors
+/.idea
+/.vscode
+
 # misc
 .DS_Store
+.eslintcache
 .env.local
 .env.development.local
 .env.test.local

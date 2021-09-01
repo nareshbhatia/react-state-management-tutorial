@@ -1,0 +1,6 @@
+.counter {
+  color: var(--text-primary-default);
+  border: 1px solid var(--text-primary-default);
+  border-radius: 4px;
+  padding: 0 8px;
+}

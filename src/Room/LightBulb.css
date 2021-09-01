@@ -1,0 +1,15 @@
+.light-bulb {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  transition: all 0.5s ease-in-out;
+}
+
+.light-bulb--off {
+  background: #ffffff;
+}
+
+.light-bulb--on {
+  background: #ffe770;
+  box-shadow: 0 0 0 10px #ffe770, 0 0 150px 10px #ffcd00;
+}
